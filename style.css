@@ -1,0 +1,234 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1f1f1;
+}
+
+.login-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #3f0619;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.welcome {
+  text-align: center;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.welcom {
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.image img {
+  max-width: 100%;
+  height: auto;
+}
+
+label {
+  color: white;
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  width: 100%;
+}
+
+input[type="submit"] {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.forgot {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.forgot a {
+  color: white;
+  text-decoration: none;
+}
+
+.forgot a:hover {
+  text-decoration: underline;
+}
+
+.user-name{
+  margin-top: 0.1px;
+  margin-bottom: 0.1;
+}
+
+h2 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  border-radius: 90px;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.welcom {
+  font-size: small;
+  margin-top: 4px;
+}
+
+input[type="submit"] {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+  margin: 5px auto;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.password{
+  margin-top:0.1 px;
+}
+
+.forgot {
+  font-style: initial;
+  margin-left: 0;
+  margin-top: 0;
+  padding-bottom: 200px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1f1f1;
+}
+
+.forgot-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #3f0619;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+label {
+  color: white;
+  margin-bottom: 5px;
+}
+
+input[type="email"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+input[type="submit"] {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f1f1f1;
+}
+
+.account-creation-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #3f0619;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+label {
+  color: white;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+input[type="submit"] {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
